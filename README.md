@@ -11,6 +11,11 @@
 ## Projects 
 ---
 ### [Portfolio](https://nikkicalamia.herokuapp.com/)
+> #### My professional portfolio
+
+#### Technologies Used:
+* Built with **React** and **Next.js** which provides an easy way to create dynamic pages and handle routing throughout the application.  
+* Implemented **Tailwind CSS** that allowed for more control over styling as well as exceptional responsiveness for mobile as well as desktop and everything in between.
 
 ### [Essentials.](https://homegoods-store.herokuapp.com/)
 
