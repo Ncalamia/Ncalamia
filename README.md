@@ -7,7 +7,8 @@
 ---
 * 😄 Pronouns: She/Her
 * 🌱 I’m currently learning: Java
-* 👯 I’m looking to collaborate on: Anything! I love learning from others and making awesome projects that make an impact!
+* 👯 I’m looking to collaborate on: Anything! I love learning from others and making awesome projects that make an impact! Reach out! [LinkedIn](https://www.linkedin.com/in/nikki-calamia/)
+
 
 ## Projects 
 ---
