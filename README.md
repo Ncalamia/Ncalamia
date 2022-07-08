@@ -22,13 +22,17 @@
 ## [Co-Operate](https://co-operate-frontend.herokuapp.com/)
 > #### A Full-Stack CRUD application designed to allow organizations to communicate more effectively, while also increasing employee participation. The events page is accessible by employees and allows them to sign up to bring something for each event. In addition, the admin page allows for the admin (incharge of planning each event) to perform full CRUD functionality on each event (add, delete or edit an event). The updates page will serve as a platform for morale boosting announcements (employee birthdays, milestones in years of service, etc).
 
+#### Technologies Used:
+* Built with **React** and **React router**, this applications frontend navigates to and from each page with ease.
+* Backend built with **Python**, **PostgreSQL** and **Django REST framework** streamlines multiple models with the use of foreign keys for the implementation of user auth as well as CRUD functionality for the user and admin.
+
 
 ## [Essentials.](https://homegoods-store.herokuapp.com/)
 > #### A Full-Stack CRUD application for those who love online shopping. Built as a collaboration with 2 other devs: this site is not only visually pleasing, but also is functionally sound. Each user can create an account, log in and then proceed to add, edit, or delete home good products from the site.
 
 #### Technologies Used:
-* Built with **React** and **React router**, this applications frontend navigates to and from each page with ease.
-* Backend built with **Python**, **PostgreSQL** and **Django REST framework** streamlines multiple models with the use of foreign keys for the implementation of user auth as well as CRUD functionality for the user and admin.
+* Backend built with **Python**, **PostgreSQL** and **Django REST framework** simplified linking data and applying user authentication.
+* Built with **React** and **MaterialUI** allowed for the team to build a stylish and responsive site in less than a week.
 
 
 ## [America's Gun Problem](https://americas-gun-problem.herokuapp.com/)
