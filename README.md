@@ -52,7 +52,7 @@
 
 ### Languages and Tools 
 ---
-- **Libraries and Frameworks** | Node.js, Express.js, JQuery, React, Django, Mongoose, Next.js, Bootstrap, Material UI, Tailwind
+- **Libraries and Frameworks** | Node.js, Express.js, JQuery, React, Django, Mongoose, Next.js, Bootstrap, Material UI, Tailwind CSS, Bulma CSS
 - **Languages** | JavaScript, HTML, CSS, Python, SQL
 - **Database** | MongoDB, PostgreSQL
 - **Other** | RESTful Routing JSON
